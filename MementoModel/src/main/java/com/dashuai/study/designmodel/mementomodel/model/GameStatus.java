@@ -1,11 +1,17 @@
 package com.dashuai.study.designmodel.mementomodel.model;
 
 public class GameStatus {
-    /**体力值*/
+    /**
+     * 体力值
+     */
     private int physicalPower;
-    /**魔法值*/
+    /**
+     * 魔法值
+     */
     private int magicPoint;
-    /**力量*/
+    /**
+     * 力量
+     */
     private int strength;
 
     public GameStatus(int physicalPower, int magicPoint, int strength) {

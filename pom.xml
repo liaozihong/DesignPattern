@@ -3,13 +3,17 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.dashuai.study</groupId>
+    <groupId>com.dashuai.learning</groupId>
     <artifactId>designmode</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
     <modules>
         <module>MementoModel</module>
+        <module>IteratorMode</module>
+        <module>AssemblyMode</module>
+        <module>ChainOfResponsibility</module>
+
     </modules>
     <name>designmode</name>
     <description>设计模式学习</description>

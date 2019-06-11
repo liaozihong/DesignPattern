@@ -3,7 +3,6 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.dashuai.learning</groupId>
     <artifactId>iterator</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -12,7 +11,7 @@
     <description>迭代器模式</description>
 
     <parent>
-        <groupId>com.dashuai.study</groupId>
+        <groupId>com.dashuai.learning</groupId>
         <artifactId>designmode</artifactId>
         <version>1.0.0</version>
     </parent>

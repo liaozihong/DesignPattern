@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.dashuai.study.designmodel</groupId>
+    <groupId>com.dashuai.learning.designmodel</groupId>
     <artifactId>mementomodel</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
@@ -12,7 +12,7 @@
     <description>备忘录模式</description>
 
     <parent>
-        <groupId>com.dashuai.study</groupId>
+        <groupId>com.dashuai.learning</groupId>
         <artifactId>designmode</artifactId>
         <version>1.0.0</version>
     </parent>
