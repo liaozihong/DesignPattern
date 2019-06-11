@@ -1,4 +1,7 @@
 
+UML 图
+![](http://ww1.sinaimg.cn/large/006mOQRagy1g3x2tq3ky5j30go059jrk.jpg)  
+
 
 关于单例模式有几个问题需要注意：
 
