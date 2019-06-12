@@ -13,7 +13,10 @@
         <module>IteratorMode</module>
         <module>AssemblyMode</module>
         <module>ChainOfResponsibility</module>
-
+        <module>DelegateMode</module>
+        <module>DynamicProxyMode</module>
+        <module>SingletonMode</module>
+        <module>ObserverMode</module>
     </modules>
     <name>designmode</name>
     <description>设计模式学习</description>
