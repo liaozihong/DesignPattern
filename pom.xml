@@ -18,6 +18,7 @@
         <module>SingletonMode</module>
         <module>ObserverMode</module>
         <module>FacadeMode</module>
+        <module>AbstractFactoryMode</module>
     </modules>
     <name>designmode</name>
     <description>设计模式学习</description>
