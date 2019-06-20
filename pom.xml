@@ -21,6 +21,7 @@
         <module>AbstractFactoryMode</module>
         <module>TemplateMode</module>
         <module>BridgePatternMode</module>
+        <module>DecoratorMode</module>
     </modules>
     <name>designmode</name>
     <description>设计模式学习</description>
