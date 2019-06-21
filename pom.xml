@@ -9,10 +9,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>MementoModel</module>
+        <module>MementoMode</module>
         <module>IteratorMode</module>
         <module>AssemblyMode</module>
-        <module>ChainOfResponsibility</module>
+        <module>ChainOfResponsibilityMode</module>
         <module>DelegateMode</module>
         <module>DynamicProxyMode</module>
         <module>SingletonMode</module>
@@ -20,7 +20,7 @@
         <module>FacadeMode</module>
         <module>AbstractFactoryMode</module>
         <module>TemplateMode</module>
-        <module>BridgePatternMode</module>
+        <module>BridgeMode</module>
         <module>DecoratorMode</module>
     </modules>
     <name>designmode</name>
