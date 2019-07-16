@@ -18,6 +18,7 @@
         <module>SingletonMode</module>
         <module>ObserverMode</module>
         <module>FacadeMode</module>
+        <module>SimpleFactoryMode</module>
         <module>AbstractFactoryMode</module>
         <module>TemplateMode</module>
         <module>BridgePatternMode</module>
