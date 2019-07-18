@@ -21,6 +21,10 @@
         <module>SimpleFactoryMode</module>
         <module>AbstractFactoryMode</module>
         <module>TemplateMode</module>
+        <module>BridgeMode</module>
+        <module>DecoratorMode</module>
+        <module>AdapterMode</module>
+        <module>MediatorMode</module>
         <module>FlyweightMode</module>
         <module>InterpreterMode</module>
         <module>StrategyMode</module>
