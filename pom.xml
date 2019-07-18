@@ -22,6 +22,8 @@
         <module>TemplateMode</module>
         <module>BridgeMode</module>
         <module>DecoratorMode</module>
+        <module>AdapterMode</module>
+        <module>MediatorMode</module>
     </modules>
     <name>designmode</name>
     <description>设计模式学习</description>
