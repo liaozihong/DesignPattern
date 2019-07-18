@@ -18,12 +18,13 @@
         <module>SingletonMode</module>
         <module>ObserverMode</module>
         <module>FacadeMode</module>
+        <module>SimpleFactoryMode</module>
         <module>AbstractFactoryMode</module>
         <module>TemplateMode</module>
-        <module>BridgeMode</module>
-        <module>DecoratorMode</module>
-        <module>AdapterMode</module>
-        <module>MediatorMode</module>
+        <module>FlyweightMode</module>
+        <module>InterpreterMode</module>
+        <module>StrategyMode</module>
+        <module>VisitorMode</module>
     </modules>
     <name>designmode</name>
     <description>设计模式学习</description>

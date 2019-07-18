@@ -1,4 +1,4 @@
-委托模式设计UML图：  
+委托模式(Delegate)设计UML图：  
 ![](http://ww1.sinaimg.cn/large/006mOQRagy1g3y7yg20ngj30l40s4t9l.jpg)  
 
 
