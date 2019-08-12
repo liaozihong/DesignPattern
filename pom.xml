@@ -29,6 +29,8 @@
         <module>InterpreterMode</module>
         <module>StrategyMode</module>
         <module>VisitorMode</module>
+        <module>PrototypeMode</module>
+        <module>StateMode</module>
     </modules>
     <name>designmode</name>
     <description>设计模式学习</description>
